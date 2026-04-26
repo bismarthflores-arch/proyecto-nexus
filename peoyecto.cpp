@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <algorithm> // Para ordenar el ranking
+#include <algorithm> 
 #include <iomanip>
 
 using namespace std;
