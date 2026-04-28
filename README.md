@@ -19,5 +19,5 @@ D Funcionalidades
 - Alumnos en Riesgo: Filtro automático de alumnos con nota menor a 4.
 - Actualización: Modificación de notas y teléfonos en tiempo real.
 E
-Desarrollado por: Bismarth Yair Flores Paco - Rudy Anjel Luque Quispe
+Desarrollado por: Bismarth Yair Flores Paco - Rudy Angel Luque Quispe
 Carrera: Ingeniería Mecatrónica - UCB
